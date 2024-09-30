@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm ducmanhchu</h2>
+<h2 align="left">Hi there, I'm ducmanhchu</h2>
 <h4 align="left">A passionate web developer from Vietnam</h4>
 
 - 🔭 I’m currently working on whatever I am working on and maybe university stuff
